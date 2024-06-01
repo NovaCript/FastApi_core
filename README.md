@@ -1,1 +1,3 @@
-https://github.com/NovaCript/FastApi_core/blob/master/instruction/Info_Dev.md
+## Instructions
+
+* [<span style="color:orange"Полезные ссылки/span>](instructions%2FInfo_Dev.md)
