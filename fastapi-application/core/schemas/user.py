@@ -4,8 +4,8 @@ from pydantic import ConfigDict
 
 class UserBase(BaseModel):
     username: str
-    foo: int
-    bar: int
+    # foo: int
+    # bar: int
 
 
 class UserCreate(UserBase):
